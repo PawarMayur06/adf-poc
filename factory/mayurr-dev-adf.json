@@ -1,0 +1,9 @@
+{
+	"name": "mayurr-dev-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "82272673-0884-4d74-bef9-b684d864864f",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
